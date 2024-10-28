@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 # Load dataset
-data = pd.read_csv('"C:\Users\N R Ravi\Disease_Prediction\archive.zip"')
+data = pd.read_csv('"C:\Users\noori\Disease_Prediction\archive.zip"')
 
 # Preprocess your data
 # Example: filling missing values
